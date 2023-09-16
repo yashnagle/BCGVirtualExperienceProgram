@@ -1,6 +1,6 @@
 # BCGVirtualExperienceProgram
 # BCG Data Science &amp; Analytics Virtual Experience Program
- <br /> Python, Matplotlib, Seaborn, Scikit-learn
+<b><u> <br /> Python, Matplotlib, Seaborn, Scikit-learn</b></u>
 <ul>
     <b>
     <br />* Validated how price sensitivity affects churn of a company that supplies power and gas small and medium sized enterprises.
